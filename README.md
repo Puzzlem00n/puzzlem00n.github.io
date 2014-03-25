@@ -1,0 +1,1 @@
+Is timbump.us not the coolest domain name ever? Go ahead, say it isn't. I won't believe you.
