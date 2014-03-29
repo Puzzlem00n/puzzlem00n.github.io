@@ -1,0 +1,9 @@
+name: "timbump.us"
+description: "The personal site of Tim Bumpus."
+
+paginate: 7
+timezone: "America/New_York"
+url: timbump.us
+
+markdown: rdiscount
+permalink: pretty
