@@ -2,6 +2,7 @@ body {
 	background-color: #39f;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
+	s
 }
 
 #logo {
@@ -16,6 +17,6 @@ p {
 	color: #fff;
 }
 
-a {
-	color: #f93;
-}
+a {color: #3ff;}
+h2 a {color: #3ff !important;}
+a:visited {color: #93f;}
